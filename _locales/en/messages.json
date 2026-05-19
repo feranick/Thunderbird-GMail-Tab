@@ -1,6 +1,14 @@
 {
+  "extensionName": {
+    "message": "Gmail Tab",
+    "description": "Name of the extension."
+  },
   "extensionDescription": {
-    "message": "Adds a button to open GMail in a new tab.",
+    "message": "Adds a button to open Gmail in a new tab.",
     "description": "Description of the extension."
+  },
+  "toolbarButtonTitle": {
+    "message": "Gmail",
+    "description": "Hover title for the Spaces Toolbar button."
   }
 }

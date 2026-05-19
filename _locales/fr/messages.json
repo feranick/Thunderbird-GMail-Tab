@@ -1,10 +1,10 @@
 {
   "extensionName": {
-    "message": "Gmail-Tab",
+    "message": "Onglet Gmail",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Fügt eine Schaltfläche hinzu, um Gmail in einem neuen Tab zu öffnen.",
+    "message": "Ajoute un bouton pour ouvrir Gmail dans un nouvel onglet.",
     "description": "Description of the extension."
   },
   "toolbarButtonTitle": {

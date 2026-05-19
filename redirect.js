@@ -1,5 +1,5 @@
 browser.spacesToolbar.addButton('Gmail', {
-    title: "Gmail",
+    title: browser.i18n.getMessage("toolbarButtonTitle"),
     defaultIcons: "skin/gmail_icon.svg",
     url: "https://mail.google.com/"
 });
